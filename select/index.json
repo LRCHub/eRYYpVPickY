@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BAD LOVE",
+  "base_artist": "HANA",
+  "createdAt": "2025-12-07T12:37:33.221092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/01_Bad_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/02_Bad_Love_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Lilith Czar",
+      "has_synced": true,
+      "path": "select/03_Bad_Love_Lilith_Czar.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/04_Bad_Love_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Love (Live)",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/05_Bad_Love_(Live)_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Starley",
+      "has_synced": false,
+      "path": "select/06_Bad_Love_Starley.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "White Lies",
+      "has_synced": true,
+      "path": "select/07_Bad_Love_White_Lies.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Love (Live)",
+      "artist": "Lita Ford",
+      "has_synced": true,
+      "path": "select/08_Bad_Love_(Live)_Lita_Ford.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "RY X",
+      "has_synced": true,
+      "path": "select/09_Bad_Love_RY_X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/10_Bad_Love_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Love (Foxes)",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/11_Bad_Love_(Foxes)_Cher.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Love (From The Film 'Foxes')",
+      "artist": "Cher",
+      "has_synced": false,
+      "path": "select/12_Bad_Love_(From_The_Film_'Foxes')_Cher.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Sean Paul feat. Ellie Goulding",
+      "has_synced": true,
+      "path": "select/13_Bad_Love_Sean_Paul_feat._Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/14_Bad_Love_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Love (Feat. Ellie Goulding)",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/15_Bad_Love_(Feat._Ellie_Goulding)_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad Love",
+      "artist": "Dillinger",
+      "has_synced": false,
+      "path": "select/16_Bad_Love_Dillinger.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bad Love Is Good Enough",
+      "artist": "Beth Hart",
+      "has_synced": true,
+      "path": "select/17_Bad_Love_Is_Good_Enough_Beth_Hart.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bad Bad Love",
+      "artist": "Alexander Ebert",
+      "has_synced": false,
+      "path": "select/18_Bad_Bad_Love_Alexander_Ebert.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAD LOVE",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_BAD_LOVE_HANA.txt"
+    }
+  ]
+}
